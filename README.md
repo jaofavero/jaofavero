@@ -2,6 +2,22 @@
 <!-- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 -->
+👋 About Me
+
+I’m a Computer Engineering student and Software Development Intern passionate about building efficient and scalable solutions. I have hands-on experience with Java, Python, Spring, and Django, as well as backend development and process automation projects.
+
+During my time at BugWare, the junior enterprise of my university, I worked as Project Manager and Public Relations Director, leading client meetings, gathering requirements, and delivering technical solutions — while actively contributing as a developer.
+
+I'm always looking to learn, collaborate, and develop software that solves real-world problems and drives innovation.
+🚀 Tech Focus
+
+    Backend Development
+
+    Process Automation
+
+    Software Architecture
+
+    Continuous Learning & Improvement
 
 
 <div>

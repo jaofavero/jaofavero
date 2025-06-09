@@ -27,7 +27,7 @@ I'm always looking to **learn**, **collaborate**, and **develop software that so
 <!--    <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=jaofavero&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&rank_icon=github"/>-->
  <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaofavero&layout=donut&langs_count=6&theme=highcontrast"/>
 </div>
-
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,7 +38,7 @@ I'm always looking to **learn**, **collaborate**, and **develop software that so
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     
 </div>
-  
+  ##
   <!--
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   -->
